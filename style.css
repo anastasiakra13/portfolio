@@ -1504,7 +1504,8 @@ hr.invis1 {
 }
 
 .post-thumb{
-	position: relative;
+    position: relative;
+    text-align: center;
 }
 
 .post-box{
@@ -1536,6 +1537,7 @@ hr.invis1 {
 }
 
 .post-info{
+    height: 340px;
 	padding: 0px 15px 40px 15px;
 	background: #ffffff;
 	text-align: left;
